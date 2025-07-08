@@ -26,7 +26,7 @@ Welcome to Greats.co, a website inspired by a captivating design found on Pinter
 To get started with Greats.co, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/greats-co.git
+https://github.com/stylishabdullah860/E-commerce-website
 ```
 
 Open the `index.html` file in your preferred web browser to explore the website locally.
